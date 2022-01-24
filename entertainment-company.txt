@@ -1,0 +1,6 @@
+entertainment company specializing in cinema
+data - user name, email address, payment details, movies, date, cinema locations, snacks,
+contacting the cinema, reporting issues, user account, ticket details.
+
+schema - username, user tickets, user email, user payment, user prepaid snacks.  
+product name (the movie), product date, product showing(time), product venue. 
