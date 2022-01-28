@@ -10,4 +10,4 @@ food_necessary BOOLEAN DEFAULT '0',
 Location VARCHAR(40) NOT NULL
 ); 
 
-SELECT * FROM cage;
+SELECT * FROM cage; 
