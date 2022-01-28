@@ -11,8 +11,6 @@ food_necessary VARCHAR(50) DEFAULT '0',
 Location VARCHAR(40) NOT NULL
 ); 
 
-INSERT INTO animal (animal_name, animal_ID, number_of, food_necessary, Location) VALUES 
-('lion', '1', '25873', 'whale blubber', 'sahara section'); 
 
 INSERT INTO animal (animal_name, number_of, food_necessary, Location) VALUES 
 ('lion', '25873', 'whale blubber', 'sahara section'),
