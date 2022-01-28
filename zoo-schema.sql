@@ -23,5 +23,4 @@ INSERT INTO animal (animal_name, number_of, food_necessary, Location) VALUES
 
 
 SELECT * FROM animal; 
-DROP TABLE animal; 
 
